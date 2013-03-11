@@ -1,0 +1,47 @@
+﻿body, h1, nav, footer
+{
+     width: 680px;
+    text-align:center;
+    color: White;
+    font-size:100%;
+    Margin: auto;
+   
+}
+h1
+{
+    background-color: blue;
+}
+
+nav, footer
+{
+  
+    background-color: green;
+}
+li
+{
+
+display:inline;
+}
+article, p1, p2
+{
+    background-color: Pink;
+    width: 453px;
+}
+
+section
+{
+  
+    background-color: brown;
+    height:80px;
+    width: 453px; 
+}
+
+aside
+{
+    
+    background-color: cyan;
+    height: 200px;
+    width: 227px;
+}
+html
+{position: relative;}
