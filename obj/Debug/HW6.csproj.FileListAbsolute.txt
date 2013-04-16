@@ -1,0 +1,10 @@
+C:\Users\DELL\documents\visual studio 2010\Projects\HW6\HW6\bin\HW6.dll
+C:\Users\DELL\documents\visual studio 2010\Projects\HW6\HW6\bin\HW6.pdb
+C:\Users\DELL\documents\visual studio 2010\Projects\HW6\HW6\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DELL\documents\visual studio 2010\Projects\HW6\HW6\obj\Debug\HW6.dll
+C:\Users\DELL\documents\visual studio 2010\Projects\HW6\HW6\obj\Debug\HW6.pdb
+C:\Users\DELL\Desktop\IS 445\445HW1\HW6\HW6\bin\HW6.dll
+C:\Users\DELL\Desktop\IS 445\445HW1\HW6\HW6\bin\HW6.pdb
+C:\Users\DELL\Desktop\IS 445\445HW1\HW6\HW6\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\IS 445\445HW1\HW6\HW6\obj\Debug\HW6.dll
+C:\Users\DELL\Desktop\IS 445\445HW1\HW6\HW6\obj\Debug\HW6.pdb
